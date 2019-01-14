@@ -1,5 +1,10 @@
 # Asset bundle who fixed conflict between bootstrap plugins and jQuery-UI plugins
 
+For case if you see unexpected `jquery-ui tooltip`
+![jquery-ui tooltip](https://user-images.githubusercontent.com/5769211/51123967-39469500-182e-11e9-8e7c-7662a31f54a8.gif)
+
+instead of `bootstrap tooltip`
+![bootstrap tooltip](https://user-images.githubusercontent.com/5769211/51123968-39df2b80-182e-11e9-87e5-50070eeae87e.gif)
 
 ## Installation
 
