@@ -19,7 +19,7 @@ class BootstrapJuiConflictFixAsset extends AssetBundle
      */
     public $depends = [
         'yii\jui\JuiAsset',
-        'backend\assets\BootstrapJuiFix',
+        'bscheshirwork\bjf\BootstrapJuiFix',
         'yii\bootstrap\BootstrapAsset',
     ];
 }
